@@ -20,3 +20,4 @@ public class CDecodeResult {
   public byte[] Pixels = null;
 }
 public static CDecodeResult Decode(byte[] data);
+
