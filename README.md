@@ -1,6 +1,6 @@
 Use Codecs_Qoi.cs only.
 
-THE QUITE OK IMAGE FORMAT
+THE QUITE OK IMAGE FORMAT<br>
 Specification Version 1.0, 2022.01.05 – qoiformat.org – Dominic Szablewski
 https://qoiformat.org/
 
@@ -20,4 +20,3 @@ public class CDecodeResult {
   public byte[] Pixels = null;
 }
 public static CDecodeResult Decode(byte[] data);
-
